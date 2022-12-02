@@ -9,5 +9,9 @@
 <body>
     <h1>Test</h1>
     <p>COba</p>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+    </ul>
 </body>
 </html>
